@@ -1,0 +1,17 @@
+C:\Users\lucas\Contatos\Contatos.Infrastructure\bin\Debug\net8.0\Contatos.Infrastructure.deps.json
+C:\Users\lucas\Contatos\Contatos.Infrastructure\bin\Debug\net8.0\Contatos.Infrastructure.runtimeconfig.json
+C:\Users\lucas\Contatos\Contatos.Infrastructure\bin\Debug\net8.0\Contatos.Infrastructure.dll
+C:\Users\lucas\Contatos\Contatos.Infrastructure\bin\Debug\net8.0\Contatos.Infrastructure.pdb
+C:\Users\lucas\Contatos\Contatos.Infrastructure\bin\Debug\net8.0\Contatos.Domain.dll
+C:\Users\lucas\Contatos\Contatos.Infrastructure\bin\Debug\net8.0\Contatos.Domain.pdb
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.Infrastructure.AssemblyInfo.cs
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.054044E1.Up2Date
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.Infrastructure.dll
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\refint\Contatos.Infrastructure.dll
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.Infrastructure.pdb
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\Contatos.Infrastructure.genruntimeconfig.cache
+C:\Users\lucas\Contatos\Contatos.Infrastructure\obj\Debug\net8.0\ref\Contatos.Infrastructure.dll

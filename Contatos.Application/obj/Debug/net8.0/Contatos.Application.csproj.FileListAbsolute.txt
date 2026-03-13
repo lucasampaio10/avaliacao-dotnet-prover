@@ -1,0 +1,15 @@
+C:\Users\lucas\Contatos\Contatos.Application\bin\Debug\net8.0\Contatos.Application.deps.json
+C:\Users\lucas\Contatos\Contatos.Application\bin\Debug\net8.0\Contatos.Application.dll
+C:\Users\lucas\Contatos\Contatos.Application\bin\Debug\net8.0\Contatos.Application.pdb
+C:\Users\lucas\Contatos\Contatos.Application\bin\Debug\net8.0\Contatos.Domain.dll
+C:\Users\lucas\Contatos\Contatos.Application\bin\Debug\net8.0\Contatos.Domain.pdb
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\Contatos.Application.csproj.AssemblyReference.cache
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\Contatos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\Contatos.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\Contatos.Application.AssemblyInfo.cs
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\Contatos.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\Contatos.8D1EAB0C.Up2Date
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\Contatos.Application.dll
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\refint\Contatos.Application.dll
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\Contatos.Application.pdb
+C:\Users\lucas\Contatos\Contatos.Application\obj\Debug\net8.0\ref\Contatos.Application.dll

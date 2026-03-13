@@ -1,0 +1,11 @@
+C:\Users\lucas\Contatos\Contatos.Domain\bin\Debug\net8.0\Contatos.Domain.deps.json
+C:\Users\lucas\Contatos\Contatos.Domain\bin\Debug\net8.0\Contatos.Domain.dll
+C:\Users\lucas\Contatos\Contatos.Domain\bin\Debug\net8.0\Contatos.Domain.pdb
+C:\Users\lucas\Contatos\Contatos.Domain\obj\Debug\net8.0\Contatos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Contatos\Contatos.Domain\obj\Debug\net8.0\Contatos.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Contatos\Contatos.Domain\obj\Debug\net8.0\Contatos.Domain.AssemblyInfo.cs
+C:\Users\lucas\Contatos\Contatos.Domain\obj\Debug\net8.0\Contatos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Contatos\Contatos.Domain\obj\Debug\net8.0\Contatos.Domain.dll
+C:\Users\lucas\Contatos\Contatos.Domain\obj\Debug\net8.0\refint\Contatos.Domain.dll
+C:\Users\lucas\Contatos\Contatos.Domain\obj\Debug\net8.0\Contatos.Domain.pdb
+C:\Users\lucas\Contatos\Contatos.Domain\obj\Debug\net8.0\ref\Contatos.Domain.dll
